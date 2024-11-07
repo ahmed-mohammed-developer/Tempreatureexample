@@ -1,0 +1,21 @@
+
+.degre {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: 2px solid #666;
+    margin-inline: auto;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center;
+    margin-top: 20px;
+}
+.btn-lg {
+    background-color: black !important;
+    color: beige !important;
+    padding: 5px 30px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 900;
+    border-radius: 20px;
+}
